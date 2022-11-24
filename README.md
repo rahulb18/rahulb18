@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Node, Express and MongoDB**
 
-- 👨‍💻 Want to know more about me? Checkout [My Portfolio]() and [Resume](https://drive.google.com/file/d/1OG7NX-8MpqpEcINqTE8e0kfvrh9-OMJI/view?usp=sharing)
+- 👨‍💻 Want to know more about me? Checkout [My Portfolio](https://rahulb18.github.io/) and [Resume](https://drive.google.com/file/d/1OG7NX-8MpqpEcINqTE8e0kfvrh9-OMJI/view?usp=sharing)
 
 - 💬 Ask me about **Frontend, React, Node, RestApi**
 
