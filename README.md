@@ -34,6 +34,24 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulb18&show_icons=true&locale=en&theme=dark"/>
 </p>
 
-<!-- Markdown -->
+<!-- Funny Random Joke -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+  <h3>Here's a random developer joke for you XD.</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+</div>
+<p align="center">
+  <code>Refresh the page for a new joke</code>
+</p>
+
+<div align="center">
+<h3>Connect with me 🙋🏻</h3>
+<a href="https://www.linkedin.com/in/rahul-badade18/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+<a href="https://www.instagram.com/rahulvbadade/">
+  <img src="https://skillicons.dev/icons?i=instagram">
+</a>
+</div>
+
+![](https://hit.yhype.me/github/profile?user_id=101395703)
