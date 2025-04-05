@@ -1,4 +1,4 @@
-# <div align="center">✨ Hello World, I'm Rahul Badade! ✨</div>
+# <div align="center">Hello World, I'm Rahul Badade! </div>
 
 <div align="center">
   <a href="https://rahulb18.github.io/">
