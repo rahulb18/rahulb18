@@ -1,57 +1,159 @@
-<h1 align="center">Hi 👋, I'm Rahul Badade</h1>
-<h3 align="left">A passionate MERN developer</h3>
-<img align = "right" alt = "coding"  width = "400" src="https://camo.githubusercontent.com/c6deab2f711f5000f9f6fc6e38a4f413ed50392c11a2938a351155cb137c6c81/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38332f33652f36363833336530376436666239656235643732346534376430633831343238352e6769663f7261773d74727565">
-<br/>
-<p>A headstrong and inquisitive, aspiring MERN developer, highly skilled in engineering robust and scalable applications. Effective remote collaborator with an immense passion for building good software, looking forward to a sparkling career as a MERN Developer.</p>
-
-- 🌱 I’m currently learning **React, Node, Express and MongoDB**
-
-- 👨‍💻 Want to know more about me? Checkout [My Portfolio](https://rahulb18.github.io/) and [Resume](https://drive.google.com/file/d/1OG7NX-8MpqpEcINqTE8e0kfvrh9-OMJI/view?usp=sharing)
-
-- 💬 Ask me about **Frontend, React, Node, RestApi**
-
-- 📫 How to reach me **rahulvbadade@gmail.com**
-<br/>
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rahul-badade18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-badade18/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
-<br/>
-
-
-
-<h3>📊 Github Stats</h3>
-<br/>
-<br/>
-<p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rahulb18&theme=dark" />
-   <br/>
-   <br/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulb18&show_icons=true&locale=en&theme=dark"/>
-</p>
-
-<!-- Funny Random Joke -->
+# <div align="center">✨ Hello World, I'm Rahul Badade! ✨</div>
 
 <div align="center">
-  <h3>Here's a random developer joke for you XD.</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+  <a href="https://rahulb18.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;Frontend+Architecture+Enthusiast;UI%2FUX+Experience+Craftsman;Modern+Web+App+Builder" alt="Typing SVG" />
+  </a>
 </div>
-<p align="center">
-  <code>Refresh the page for a new joke</code>
-</p>
+
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## 👨‍💻 About Me
+
+I'm a passionate developer who crafts **modern, interactive web experiences** using the MERN stack and cutting-edge frontend technologies. With an eye for detail and a love for clean code, I transform concepts into responsive, user-friendly applications.
+
+- 🔭 I'm currently building **interactive portfolios and e-commerce solutions**
+- 🌱 I'm exploring **3D web experiences with Three.js and AI integrations**
+- 💡 I love solving complex UI challenges with elegant, efficient solutions
+- 🚀 Always pushing the boundaries of what web applications can do
+- 📫 Reach me at: **rahulvbadade@gmail.com**
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-<h3>Connect with me 🙋🏻</h3>
-<a href="https://www.linkedin.com/in/rahul-badade18/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin">
-</a>
-<a href="https://www.instagram.com/rahulvbadade/">
-  <img src="https://skillicons.dev/icons?i=instagram">
-</a>
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+  <h4>Tools & Others</h4>
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=101395703)
+<br>
+
+## 🔥 What I'm Working On
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Modern E-commerce Platform</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://api.placeholder.com/400/320" alt="E-commerce Project" width="300" height="180"/>
+        </a>
+        <p align="center">
+          A full-stack e-commerce solution with Next.js, Tailwind CSS, shadcn/ui components, and Stripe integration
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Interactive Portfolio Builder</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://api.placeholder.com/400/320" alt="Portfolio Builder" width="300" height="180"/>
+        </a>
+        <p align="center">
+          A drag-and-drop portfolio creator with Framer Motion animations and dynamic content management
+        </p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI-Powered Content Platform</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://api.placeholder.com/400/320" alt="AI Content Platform" width="300" height="180"/>
+        </a>
+        <p align="center">
+          Leveraging AI APIs with React and Node.js to create dynamic, personalized content experiences
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">3D Web Experience</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://api.placeholder.com/400/320" alt="3D Web Experience" width="300" height="180"/>
+        </a>
+        <p align="center">
+          Experimenting with Three.js and React Three Fiber to create immersive 3D web experiences
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulb18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulb18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulb18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rahul-badade18/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://rahulb18.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/rahulvbadade/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:rahulvbadade@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Thanks for visiting! 👋</h3>
+  <p>Feel free to check out my repositories and don't hesitate to reach out for collaborations or just a chat!</p>
+  <img src="https://komarev.com/ghpvc/?username=rahulb18&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<!--
+Replace placeholder images with actual project screenshots when available.
+For the typing animation, use: https://readme-typing-svg.demolab.com/
+Profile views counter: https://github.com/antonkomarev/github-profile-views-counter
+GitHub stats: https://github.com/anuraghazra/github-readme-stats
+GitHub streak stats: https://github.com/DenverCoder1/github-readme-streak-stats
+Random quotes: https://github.com/PiyushSuthar/github-readme-quotes
+-->
